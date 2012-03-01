@@ -1,0 +1,9 @@
+
+#header,
+#content
+{
+  margin: 0 auto;
+  max-width: 900px;
+  margin-bottom: 0;
+  padding: 0;
+}
